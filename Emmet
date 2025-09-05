@@ -1,0 +1,10 @@
+Emmet
+File -> Settings -> Editor -> Emmet
+ - Enable Emmet
+ - Enable XML/HTML
+ 
+AutoDop HTML + CSS
+Settings -> Editor -> General -> Code Completion
+ - Enable Auto-insert Closing tag
+ - Enable Insert required attributes on tag completion
+
